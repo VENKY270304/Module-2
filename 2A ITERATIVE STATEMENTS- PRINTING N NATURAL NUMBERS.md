@@ -17,8 +17,8 @@ To write a Python program to find the sum of the series 1¹ + 2² + 3³ + ... + 
 ### 🧾 Program
 
 ```python
-#Reg.NO - 212222040035
-#Name - Dhareene R K
+#Reg.NO - 212222040177
+#Name - Venkatesan M
 #Write your Code here
 n=int(input())
 m=0
